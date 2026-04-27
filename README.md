@@ -44,22 +44,6 @@ fun_fact: "I like football a freakish lot ⚽"
 
 ---
 
-## 🏆 GitHub Trophies & Milestones
-
-<div align="center">
-
-![Followers](https://img.shields.io/github/followers/anuran-de?style=for-the-badge&logo=github&label=Followers)
-![Public Repos](https://img.shields.io/badge/dynamic/json?style=for-the-badge&logo=github&label=Public%20Repos&color=58a6ff&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fanuran-de)
-![Following](https://img.shields.io/badge/dynamic/json?style=for-the-badge&logo=github&label=Following&color=1f6feb&query=%24.following&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fanuran-de)
-
-<br/><br/>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=anuran-de&theme=tokyonight&column=4&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
 ## 🛠️ Tech Stack
 
 <div align="center">
