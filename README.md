@@ -79,38 +79,18 @@ Bengaluru, India 🇮🇳 · previously wrote way too much PySpark, still do.
 
 **Open source** *(go break them)*
 
-<div align="center">
-
-<a href="https://github.com/anuran-de/researgent">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuran-de&repo=researgent&theme=tokyonight&hide_border=true&border_radius=10" />
-</a>&nbsp;&nbsp;
-<a href="https://github.com/anuran-de/TELEDOC">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuran-de&repo=TELEDOC&theme=tokyonight&hide_border=true&border_radius=10" />
-</a>
-
-<br/><br/>
-
-<a href="https://github.com/anuran-de/Smart-Parking-System">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuran-de&repo=Smart-Parking-System&theme=tokyonight&hide_border=true&border_radius=10" />
-</a>&nbsp;&nbsp;
-<a href="https://github.com/anuran-de/gencrew">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuran-de&repo=gencrew&theme=tokyonight&hide_border=true&border_radius=10" />
-</a>
-
-</div>
+- **[researgent](https://github.com/anuran-de/researgent)** — a CLI research assistant with a multi-agent architecture, configurable depth, and four output styles (academic, business, educational, journalistic). `Python`
+- **[TELEDOC](https://github.com/anuran-de/TELEDOC)** — a symptom-to-diagnosis web app that gives users preliminary health insights through an interactive interface. `React` · `FastAPI` · `LangChain`
+- **[Smart-Parking-System](https://github.com/anuran-de/Smart-Parking-System)** — a Raspberry Pi build that automates parking — less manpower, safer garage. `Python` · `IoT`
+- **[gencrew](https://github.com/anuran-de/gencrew)** — a lightweight wrapper around CrewAI to spin up multi-agent crews faster. `Python`
 
 ---
 
-### 📈 GitHub, in charts
+### 🔥 Still shipping
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=anuran-de&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&include_all_commits=true&count_private=true&rank_icon=github" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=anuran-de&theme=tokyonight&hide_border=true&border_radius=10" />
-
-<br/><br/>
-
-[![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=anuran-de&theme=tokyo-night&hide_border=true&radius=10&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=anuran-de&theme=tokyonight&hide_border=true&border_radius=10" />
 
 </div>
 
