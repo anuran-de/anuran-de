@@ -124,6 +124,12 @@ Bengaluru, India 🇮🇳 · previously wrote way too much PySpark, still do.
 
 *Building something at the intersection of data, ML, and shipping? I'd love to hear about it — [anuran.de](https://anuran.de)*
 
+<br/>
+
+### 🙏 Thanks for visiting!
+
+<img width="320" src="https://media.giphy.com/media/K90egyIrLZCm9vpH0Y/giphy.gif" alt="thanks for visiting" />
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:30363d&height=120&section=footer&v=2" />
 
 </div>
