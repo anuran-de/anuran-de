@@ -1,8 +1,8 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:30363d&height=210&section=header&text=Anuran%20De&fontSize=72&fontColor=58a6ff&animation=fadeIn&fontAlignY=35&desc=Data%20%26%20ML%20Engineer%20%40%20Maersk&descSize=20&descColor=8b949e&descAlignY=54" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:30363d&height=210&section=header&text=Anuran%20De&fontSize=72&fontColor=58a6ff&animation=fadeIn&fontAlignY=35&desc=Data%20%26%20ML%20Engineer%20%40%20Maersk&descSize=20&descColor=8b949e&descAlignY=54&v=2" />
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1200&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=680&height=80&lines=I+build+the+pipelines+behind+the+boxes+that+move+the+world.;12M%2B+shipping+records+a+day%2C+and+the+ML+that+makes+sense+of+them.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1200&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=820&height=80&lines=I+build+the+pipelines+behind+the+boxes+that+move+the+world.;12M%2B+records+a+day%2C+plus+the+ML+that+makes+sense+of+them.)](https://git.io/typing-svg)
 
 <a href="https://anuran.de"><img src="https://img.shields.io/badge/Portfolio-anuran.de-58a6ff?style=for-the-badge&logo=vercel&logoColor=white" /></a>&nbsp;
 <a href="https://linkedin.com/in/anuran-de"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;
@@ -122,6 +122,6 @@ Bengaluru, India 🇮🇳 · previously wrote way too much PySpark, still do.
 
 *Building something at the intersection of data, ML, and shipping? I'd love to hear about it — [anuran.de](https://anuran.de)*
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:30363d&height=120&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:30363d&height=120&section=footer&v=2" />
 
 </div>
