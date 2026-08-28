@@ -4,7 +4,7 @@
 
 <br/><br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1200&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=820&height=80&lines=i+just+keep+the+data+honest.;twelve+million+rows+a+day+%E2%80%94+we+have+an+understanding.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1200&color=FFD166&center=true&vCenter=true&multiline=true&repeat=true&width=820&height=80&lines=i+just+keep+the+data+honest.;twelve+million+rows+a+day+%E2%80%94+we+have+an+understanding.)](https://git.io/typing-svg)
 
 <a href="https://anuran.de"><img src="https://img.shields.io/badge/Portfolio-anuran.de-58a6ff?style=for-the-badge&logo=vercel&logoColor=white" /></a>&nbsp;
 <a href="https://linkedin.com/in/anuran-de"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;
@@ -81,7 +81,7 @@ Bengaluru, India 🇮🇳 · previously wrote way too much PySpark, still do.
 
 **Open source** *(go break them)*
 
-- **[dvi](https://github.com/anuran-de/dvi)** — Data Versioning Intelligence: semantic change detection and causal root-cause analysis for data pipelines. `Python`
+- **[dvi](https://github.com/anuran-de/dvi)** &nbsp;![building now](https://img.shields.io/badge/🚧_building_now-FFD166?style=flat-square&labelColor=1c2128) — Data Versioning Intelligence: semantic change detection and causal root-cause analysis for data pipelines. `Python`
 - **[researgent](https://github.com/anuran-de/researgent)** — a CLI research assistant with a multi-agent architecture, configurable depth, and four output styles (academic, business, educational, journalistic). `Python`
 - **[TELEDOC](https://github.com/anuran-de/TELEDOC)** — a symptom-to-diagnosis web app that gives users preliminary health insights through an interactive interface. `React` · `FastAPI` · `LangChain`
 
