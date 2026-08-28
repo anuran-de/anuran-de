@@ -81,6 +81,7 @@ Bengaluru, India 🇮🇳 · previously wrote way too much PySpark, still do.
 
 **Open source** *(go break them)*
 
+- **[dvi](https://github.com/anuran-de/dvi)** — Data Versioning Intelligence: semantic change detection and causal root-cause analysis for data pipelines. `Python`
 - **[researgent](https://github.com/anuran-de/researgent)** — a CLI research assistant with a multi-agent architecture, configurable depth, and four output styles (academic, business, educational, journalistic). `Python`
 - **[TELEDOC](https://github.com/anuran-de/TELEDOC)** — a symptom-to-diagnosis web app that gives users preliminary health insights through an interactive interface. `React` · `FastAPI` · `LangChain`
 
