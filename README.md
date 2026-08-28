@@ -83,8 +83,6 @@ Bengaluru, India 🇮🇳 · previously wrote way too much PySpark, still do.
 
 - **[researgent](https://github.com/anuran-de/researgent)** — a CLI research assistant with a multi-agent architecture, configurable depth, and four output styles (academic, business, educational, journalistic). `Python`
 - **[TELEDOC](https://github.com/anuran-de/TELEDOC)** — a symptom-to-diagnosis web app that gives users preliminary health insights through an interactive interface. `React` · `FastAPI` · `LangChain`
-- **[Smart-Parking-System](https://github.com/anuran-de/Smart-Parking-System)** — a Raspberry Pi build that automates parking — less manpower, safer garage. `Python` · `IoT`
-- **[gencrew](https://github.com/anuran-de/gencrew)** — a lightweight wrapper around CrewAI to spin up multi-agent crews faster. `Python`
 
 ---
 
