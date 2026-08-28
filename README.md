@@ -15,6 +15,8 @@
 
 ### 👋 Hey, I'm Anuran
 
+<img align="right" width="260" src="https://media.giphy.com/media/LfetCRSOZi4ZXGvqfl/giphy.gif" alt="gif" />
+
 I work somewhere in the overlap of **system architecture, AI, data, and figuring out why something that should obviously work absolutely refuses to.**
 
 Right now that means building the data plumbing behind global shipping at **Maersk** — moving 12M+ records a day, then wiring up the ML and RAG systems that turn all of it into decisions. I spend an unreasonable amount of time thinking about how to make systems consume, process, and actually *make sense of* data.
