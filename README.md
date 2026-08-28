@@ -1,96 +1,91 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:30363d&height=220&section=header&text=Anuran%20De&fontSize=75&fontColor=58a6ff&animation=fadeIn&fontAlignY=35&desc=Data%20Science%20%7C%20AI/ML%20%7C%20Full%20Stack&descSize=18&descColor=8b949e&descAlignY=55" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:30363d&height=210&section=header&text=Anuran%20De&fontSize=72&fontColor=58a6ff&animation=fadeIn&fontAlignY=35&desc=Data%20%26%20ML%20Engineer%20%40%20Maersk&descSize=20&descColor=8b949e&descAlignY=54" />
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=70&lines=Building+intelligent+systems+that+matter+%F0%9F%A7%A0;From+data+to+decisions%2C+one+model+at+a+time+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1200&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=680&height=80&lines=I+build+the+pipelines+behind+the+boxes+that+move+the+world.;12M%2B+shipping+records+a+day%2C+and+the+ML+that+makes+sense+of+them.)](https://git.io/typing-svg)
 
-<br/>
-
-<a href="https://linkedin.com/in/anuran-de-7b7083286"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;
-<a href="https://twitter.com/anuran__"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;
-<a href="https://instagram.com/anuran.__"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>&nbsp;
-<a href="mailto:anuran.de2022@iem.edu.in"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=anuran-de&color=58a6ff&style=for-the-badge&label=PROFILE+VIEWS)
+<a href="https://anuran.de"><img src="https://img.shields.io/badge/Portfolio-anuran.de-58a6ff?style=for-the-badge&logo=vercel&logoColor=white" /></a>&nbsp;
+<a href="https://linkedin.com/in/anuran-de"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;
+<a href="https://twitter.com/anuran__"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>&nbsp;
+<a href="mailto:anurande514@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 </div>
 
 ---
 
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> &nbsp;About Me
+### 👋 Hey, I'm Anuran
 
-```yaml
-name: Anuran De
-location: Bangalore, India 🇮🇳
-company: Maersk Global 🚢
-role: Data Science
-education: IEM Kolkata
+I work somewhere in the overlap of **system architecture, AI, data, and figuring out why something that should obviously work absolutely refuses to.**
 
-currently_learning:
-  - LLM Fine-tuning & RAG Architectures
-  - Backend Development
-  - AI Agent Frameworks
+Right now that means building the data plumbing behind global shipping at **Maersk** — moving 12M+ records a day, then wiring up the ML and RAG systems that turn all of it into decisions. I spend an unreasonable amount of time thinking about how to make systems consume, process, and actually *make sense of* data.
 
-interests:
-  - Machine Learning & Deep Learning
-  - Natural Language Processing
-  - Full-Stack Development
-  - IoT & Embedded Systems
-
-fun_fact: "I like football a freakish lot ⚽"
-```
+Bengaluru, India 🇮🇳 · previously wrote way too much PySpark, still do.
 
 ---
 
-## 🛠️ Tech Stack
+### 📊 The numbers I'm proud of
 
 <div align="center">
 
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+| | | | |
+|:---:|:---:|:---:|:---:|
+| **12M+** | **30+** | **70%** | **50K+** |
+| records / day | production pipelines | latency reduction | API requests / day |
 
-### AI / ML / Data Science
+</div>
+
+---
+
+### 🧰 What I build with
+
+<div align="center">
+
+**Data Engineering**
+
+![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
+![Delta Lake](https://img.shields.io/badge/Delta_Lake-00ADD4?style=for-the-badge&logo=delta&logoColor=white)
+![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+
+**AI · RAG · ML**
+
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge&logo=qdrant&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![CrewAI](https://img.shields.io/badge/CrewAI-FF6B6B?style=for-the-badge&logoColor=white)
 
-### Web & Backend
+**APIs · Backend · Cloud**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-### Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 </div>
 
 ---
 
-## 🚀 Featured Projects
+### 🚀 Things I've built
+
+**At work** *(closed source, but the fun stuff)*
+- **SARA** — a multi-agent RAG system that resolves ServiceNow incidents at 94% classification accuracy and saves 300+ engineer-hours a month.
+- **RateFlow** — a governed API gateway with real-time Postgres → Delta Lake sync, chewing through 10K+ rate updates daily.
+- **The Delta Lake platform** — a fleet of 30+ PySpark pipelines powering real-time freight analytics across global terminals.
+
+**Open source** *(go break them)*
 
 <div align="center">
 
-<a href="https://github.com/anuran-de/TELEDOC">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuran-de&repo=TELEDOC&theme=tokyonight&hide_border=true&border_radius=10" />
-</a>&nbsp;&nbsp;
 <a href="https://github.com/anuran-de/researgent">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuran-de&repo=researgent&theme=tokyonight&hide_border=true&border_radius=10" />
+</a>&nbsp;&nbsp;
+<a href="https://github.com/anuran-de/TELEDOC">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuran-de&repo=TELEDOC&theme=tokyonight&hide_border=true&border_radius=10" />
 </a>
 
 <br/><br/>
@@ -106,7 +101,7 @@ fun_fact: "I like football a freakish lot ⚽"
 
 ---
 
-## 📊 GitHub Analytics
+### 📈 GitHub, in charts
 
 <div align="center">
 
@@ -115,23 +110,13 @@ fun_fact: "I like football a freakish lot ⚽"
 
 <br/><br/>
 
-<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuran-de&layout=donut-vertical&theme=tokyonight&hide_border=true&border_radius=10&langs_count=8" />
+[![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=anuran-de&theme=tokyo-night&hide_border=true&radius=10&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
 ---
 
-## 📈 Contribution Graph
-
-<div align="center">
-
-[![Anuran's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=anuran-de&theme=tokyo-night&hide_border=true&radius=10&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
-## 🐍 Contribution Snake
+### 🐍 The snake eats my commits
 
 <div align="center">
 
@@ -145,22 +130,18 @@ fun_fact: "I like football a freakish lot ⚽"
 
 ---
 
+### 🎧 Off the clock
+
+- **Mohun Bagan** for 19 years — less a football club, more a permanent emotional condition. 💚❤️
+- **Arsenal** since the Wenger era, which explains a lot about my tolerance for beautiful things that don't quite win.
+- **Spotify** is less an accessory and more life-support. There's a suspiciously high correlation between my productivity, my sanity, and whether something's currently playing.
+
+---
+
 <div align="center">
 
-### 💬 Random Dev Quote
+*Building something at the intersection of data, ML, and shipping? I'd love to hear about it — [anuran.de](https://anuran.de)*
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/piyushsuthar/github-readme-quotes)
-
-<br/>
-
-### 🤝 Let's Connect!
-
-*I'm always open to collaborating on interesting AI/ML projects and innovative ideas.*
-
-*If you found my work helpful, consider giving a ⭐ — it means a lot!*
-
-<br/>
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:30363d&height=120&section=footer)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:30363d&height=120&section=footer" />
 
 </div>
