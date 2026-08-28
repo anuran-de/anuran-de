@@ -1,6 +1,8 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:30363d&height=210&section=header&text=Anuran%20De&fontSize=72&fontColor=58a6ff&animation=fadeIn&fontAlignY=35&desc=Data%20%26%20ML%20Engineer%20%40%20Maersk&descSize=20&descColor=8b949e&descAlignY=54&v=2" />
-
 <div align="center">
+
+<img width="320" src="https://media.giphy.com/media/LfetCRSOZi4ZXGvqfl/giphy.gif" alt="gif" />
+
+<br/><br/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1200&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=820&height=80&lines=I+build+the+pipelines+behind+the+boxes+that+move+the+world.;12M%2B+records+a+day%2C+plus+the+ML+that+makes+sense+of+them.)](https://git.io/typing-svg)
 
@@ -14,8 +16,6 @@
 ---
 
 ### 👋 Hey, I'm Anuran
-
-<img align="right" width="260" src="https://media.giphy.com/media/LfetCRSOZi4ZXGvqfl/giphy.gif" alt="gif" />
 
 I work somewhere in the overlap of **system architecture, AI, data, and figuring out why something that should obviously work absolutely refuses to.**
 
