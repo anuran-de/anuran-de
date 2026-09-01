@@ -4,7 +4,7 @@
 
 <br/><br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1200&color=FFD166&center=true&vCenter=true&multiline=true&repeat=true&width=820&height=80&lines=i+get+shit+done.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1200&color=FFD166&center=true&vCenter=true&multiline=true&repeat=true&width=820&height=80&lines=i+make+things+work.)](https://git.io/typing-svg)
 
 <a href="https://anuran.de"><img src="https://img.shields.io/badge/Portfolio-anuran.de-58a6ff?style=for-the-badge&logo=vercel&logoColor=white" /></a>&nbsp;
 <a href="https://linkedin.com/in/anuran-de"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;
