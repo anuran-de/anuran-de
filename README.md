@@ -114,7 +114,7 @@ Bengaluru, India 🇮🇳 · previously wrote way too much PySpark, still do.
 ### 🎧 Off the clock
 
 - **Mohun Bagan** for 19 years — less a football club, more a permanent emotional condition. 💚❤️
-- **Arsenal** since the Wenger era, which explains a lot about my tolerance for beautiful things that don't quite win.
+- **Arsenal** since the Wenger era, which explains a lot about my tolerance for beautiful things that don't quite have a happy ending.
 - **Spotify** is less an accessory and more life-support. There's a suspiciously high correlation between my productivity, my sanity, and whether something's currently playing.
 
 ---
