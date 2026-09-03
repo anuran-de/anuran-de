@@ -87,6 +87,26 @@ Bengaluru, India 🇮🇳 · previously wrote way too much PySpark, still do.
 
 ---
 
+### 📈 GitHub, statistically
+
+<div align="center">
+
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anuran-de&theme=github_dark" />
+
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=anuran-de&theme=github_dark" />
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=anuran-de&theme=github_dark" />
+
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=anuran-de&theme=github_dark" />
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=anuran-de&theme=github_dark&utcOffset=5.5" />
+
+<br/><br/>
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=anuran-de&bg_color=0d1117&color=FFD166&line=58a6ff&point=FFD166&area=true&hide_border=true" alt="Contribution activity graph" />
+
+</div>
+
+---
+
 ### 🔥 Still shipping
 
 <div align="center">
