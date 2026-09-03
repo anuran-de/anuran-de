@@ -87,26 +87,6 @@ Bengaluru, India 🇮🇳 · previously wrote way too much PySpark, still do.
 
 ---
 
-### 📈 GitHub, statistically
-
-<div align="center">
-
-<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anuran-de&theme=github_dark" />
-
-<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=anuran-de&theme=github_dark" />
-<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=anuran-de&theme=github_dark" />
-
-<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=anuran-de&theme=github_dark" />
-<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=anuran-de&theme=github_dark&utcOffset=5.5" />
-
-<br/><br/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=anuran-de&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=FFD166&icon_color=58a6ff&text_color=c9d1d9&bg_color=0d1117" alt="GitHub stats" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuran-de&layout=compact&hide_border=true&title_color=FFD166&text_color=c9d1d9&bg_color=0d1117" alt="Top languages" />
-
-</div>
-
----
 
 ### 🔥 Still shipping
 
