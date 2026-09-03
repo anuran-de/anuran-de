@@ -101,7 +101,8 @@ Bengaluru, India 🇮🇳 · previously wrote way too much PySpark, still do.
 
 <br/><br/>
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=anuran-de&bg_color=0d1117&color=FFD166&line=58a6ff&point=FFD166&area=true&hide_border=true" alt="Contribution activity graph" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=anuran-de&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=FFD166&icon_color=58a6ff&text_color=c9d1d9&bg_color=0d1117" alt="GitHub stats" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuran-de&layout=compact&hide_border=true&title_color=FFD166&text_color=c9d1d9&bg_color=0d1117" alt="Top languages" />
 
 </div>
 
